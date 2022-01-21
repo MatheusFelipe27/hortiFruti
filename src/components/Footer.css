@@ -1,0 +1,31 @@
+.footer{
+    margin-top: 30px;
+    background-color: #88bc23;
+    padding-top: 20px;
+    text-align: center;
+    height: 100px;
+    color:white;
+    
+}
+
+.footerList{
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    margin-top: 10px;
+    font-size: 24px;    
+}
+
+.footerItems{
+    margin: 5px;
+    cursor: pointer;
+    transform: scale(0.9);
+}
+
+.footerItems:hover{
+    transform: scale(1);
+}
+
+.a{
+    color: white;
+}

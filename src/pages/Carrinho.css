@@ -1,0 +1,116 @@
+.texts1{
+    list-style: none;
+    color: white;
+    font-size: 20px;
+    padding-left: 40px;
+    
+}
+
+.texts2{
+    list-style: none;
+    color: white;
+    padding-left: 340px;
+    font-size: 20px;
+}
+
+.arrow{
+    padding-left: 60px;
+    padding-top: 5px;
+}
+
+.arrow2{
+    padding-left: 340px;
+    padding-top: 5px;
+}
+
+.minusButton{
+    margin-left: 325px;
+    margin-top: 10px;
+    padding-left: 3px;
+    padding-right: 3px;
+    padding-top: 3px;
+    cursor: pointer;
+    border: none;
+    border-radius: 2px;
+    transform: scale(0.9);
+    
+}
+
+.minusButton:hover{
+    transform: scale(1);
+}
+
+.plusButton{
+    margin-left: 8px;
+    padding-left: 3px;
+    padding-right: 3px;
+    padding-top: 3px;
+    cursor: pointer;
+    border: none;
+    border-radius: 2px;
+    transform: scale(0.9);
+}
+
+.plusButton:hover{
+    transform: scale(1);
+}
+
+.mainName1{
+    font-size: 24px;
+}
+
+.mainName2{
+    font-size: 24px;
+    padding-left: 300px;
+    margin-top: -75px;
+}
+
+.box2 {
+    margin: 40px;
+    padding-top: 10px;
+    padding-left: 25px;
+    background-color: #88bc23;
+    height: 130px;
+    border-radius: 15px;
+  }
+
+.deleteProductButton{
+    float: right;
+    margin-right: 100px;
+    margin-top: -50px;
+    text-align: center;
+    border-radius: 5px;
+    border:none;
+    font-size: 20px;
+    padding: 10px;
+    padding-right: 50px;
+    padding-left: 50px;
+    cursor: pointer;
+    transform: scale(0.9);
+}
+
+.deleteProductButton:hover{
+    transform: scale(1);
+}
+
+.deleteAllButton{
+    text-align: center;
+    border: none;
+    font-size: 24px;
+    border-radius: 5px;
+    padding: 15px;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-left: 500px;
+    margin-top: 10px;
+    cursor: pointer;
+    transform: scale(0.9);
+}
+
+.deleteAllButton:hover{
+    transform: scale(1);
+}
+
+.marginzin{
+    margin-top: 150px;
+}

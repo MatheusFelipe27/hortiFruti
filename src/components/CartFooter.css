@@ -1,0 +1,35 @@
+.CartFooter{
+    
+    margin-top: 50px;
+    background-color: #88bc23;
+    padding-top: 20px;
+    text-align: center;
+    height: 104px;
+    width: 100%;
+    color:white;
+    position: fixed;
+    bottom: 0;    
+}
+
+.CartFooterList{
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    margin-top: 10px;
+    font-size: 24px;   
+     
+}
+
+.CartFooterItems{
+    margin: 5px;
+    cursor: pointer;
+    transform: scale(0.9);
+}
+
+.CartFooterItems:hover{
+    transform: scale(1);
+}
+
+.a{
+    color: white;
+}

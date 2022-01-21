@@ -1,0 +1,56 @@
+  .content{
+    display: flex;
+    justify-content: space-between;
+    background-color: #88BC23;
+    height: 100px;
+  }
+
+  .lista{
+      display: flex;
+      list-style: none;
+      justify-content: space-around; 
+          
+  }
+  
+  .listitem{
+      padding-top: 5px;
+      padding-left: 10px;
+      padding-right: 50px;
+  }
+
+   .navbarelements{
+      color:white;
+      text-align: center;
+      padding-top: 25px;
+      cursor: pointer;
+  }
+
+  .mensagem{
+      color: white;
+      text-align: center;
+      padding-left: 80px;
+      padding-top: 25px;
+  } 
+
+  .link{
+      text-decoration: none;
+  }
+
+  h1{
+      color: white;
+  }
+
+  /* .texto{
+    height: 13%;
+    background-color: lightgreen;
+    border-radius: 10px;
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+
+  .listagem{
+      margin-top: 40px;
+      margin-left: 40px;
+  } */
